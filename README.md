@@ -1,6 +1,6 @@
 # Django Rest Framework API Project
 
-This is a simple REST API built using Django and Django Rest Framework (DRF) based on the Learn Code With Durgesh tutorial.
+This is a simple REST API built using Django and Django Rest Framework (DRF)
 
 ## 🚀 Quick Start Guide
 
